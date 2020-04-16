@@ -6,7 +6,7 @@ In this repo I will put the notebooks I ran on gricad servers (dahu for the mome
 
 Computation of temporal and spatial means over 3 month of hourly surface data in Acores region extracted from eNATL60-BLBT02 run. The notebooks are : 
 
-Results for chunks :
+Results for chunks {'time_counter':24,'x':200,'y,:200} :
 
  
 | Number of workers   |  5  |  10  |  20  |
